@@ -86,6 +86,7 @@ body {
     flex: 1;
     padding: $fS16;
     position: relative;
+    padding-bottom: 50px;
 
     @media (max-width: $point500) {
       max-width: $point500;
