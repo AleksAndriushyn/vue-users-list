@@ -24,7 +24,7 @@ body {
   }
 
   @media (max-width: $point500) {
-    overflow-x: hidden;
+    overflow: hidden;
   }
 }
 
@@ -50,7 +50,6 @@ body {
   @media (max-width: $point500) {
     min-width: $point500;
     max-width: $point500;
-    white-space: nowrap;
   }
 }
 
